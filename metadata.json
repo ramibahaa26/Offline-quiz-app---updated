@@ -1,0 +1,6 @@
+{
+  "name": "Offline Class Quiz",
+  "description": "An offline-first quiz application enabling teachers to host, manage questions, and export reports, and students to participate under time limits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
